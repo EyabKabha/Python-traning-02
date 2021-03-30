@@ -1,0 +1,1 @@
+# Python script pulling data from the Mysql db and extraction to excel file
