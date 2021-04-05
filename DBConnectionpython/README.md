@@ -2,4 +2,4 @@
 
 You can choose where to locate the excel file for your convenience.
 
-![caption](excelCode.mp4)
+![](excelCode.gif)
